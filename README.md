@@ -1,2 +1,2 @@
 # hello-world
-test repo
+This is to test git commands and features
